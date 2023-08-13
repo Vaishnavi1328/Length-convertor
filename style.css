@@ -1,0 +1,40 @@
+body{
+    background-color:  rgb(237, 208, 171);
+    margin-top: 25vh;
+    min-width: 500px;
+}
+
+#convertor{
+    margin-top: px;
+    background-color: black;
+    text-align: center;
+    padding-bottom: 20px;
+    width:40%;
+    margin-left: 30%;
+    min-height: 50vh;
+    border-radius: 2%;
+}
+
+h2{
+    padding-top: 20px;
+    color: rgb(237, 208, 171);
+    text-align: center;
+}
+
+input{
+    padding: 5px;
+    margin-top: 30px;
+
+}
+
+#button{
+    background-color:  rgb(237, 208, 171);
+    padding:12px;
+    border-radius: 5%;
+}
+
+#inche{
+    margin-top: 30px;
+    color:white;
+    font-size: larger;
+}
